@@ -1,8 +1,7 @@
 Camelittle
 ==========
 
-A node wrapper for fswebcam controller providing configurable async static frame
-grabbing with [fswebcam](https://github.com/fsphil/fswebcam).
+A node wrapper for [fswebcam](https://github.com/fsphil/fswebcam) providing configurable async static frame grabbing.
 
 Inspired by the work of [Camelot](https://github.com/pdeschen/camelot) but less
 prescriptive.
