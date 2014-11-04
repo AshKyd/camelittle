@@ -15,6 +15,9 @@ Firstly, *you must have `fswebcam` installed in your path*.
 * Ubuntu: `apt-get install fswebcam`
 * Fedora: `yum install fswebcam`
 
+As best I can tell, `fswebcam` only runs on Linux. Check compatibility before
+attempting to run this on Windows or Mac OS.
+
 Usage
 -----
 
