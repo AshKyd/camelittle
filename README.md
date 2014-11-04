@@ -2,9 +2,9 @@ Camelittle
 ==========
 
 A node wrapper for fswebcam controller providing configurable async static frame
-grabbing with [fswebcam|https://github.com/fsphil/fswebcam].
+grabbing with [fswebcam](https://github.com/fsphil/fswebcam).
 
-Inspired by the work of [Camelot|https://github.com/pdeschen/camelot] but less
+Inspired by the work of [Camelot](https://github.com/pdeschen/camelot) but less
 prescriptive.
 
 Setup
@@ -57,6 +57,9 @@ the library:
 * `clInstance.grab({})`
 * `clInstance.grab(function(){})`
 * `clInstance.grab({}, function(){}))`
+
+This module will not automatically poll the webcam, so it's up to you to call
+`grab` however often you need.
 
 
 Options
