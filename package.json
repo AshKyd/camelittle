@@ -1,6 +1,6 @@
 {
   "name": "camelittle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "A node wrapper for fswebcam providing configurable async static frame grabbing. Inspired by Camelot.",
   "scripts": {
